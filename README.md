@@ -4,8 +4,7 @@ I'm **Fadhila Aulia Ismail Syah**, a passionate **Software Developer** who enjoy
 from low-level **logic circuits** to high-level **applications**.
 
 With solid experience in **Java**, **PHP**, and **modern web technologies**,  
-I strive to develop efficient, reliable, and easily deployable software, combining logic and creativity to —
-produce valuable solutions.
+I strive to develop efficient, reliable, and easily deployable software, combining logic and creativity to produce valuable solutions.
 
 💡 _“Crafting logic and elegance in every line of code.”_
 
